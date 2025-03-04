@@ -20,8 +20,6 @@
 
  <br />
 
-</p>
-
 ## Overview 🔨
 
 This is a simple web crawler that outputs a CSV of found image URLs using python's beautiful soup library when inputting a url in the console.
@@ -33,6 +31,6 @@ Please install all the packages and libraries required.<br>
 ## Run app
 Then, run the app.<br>
 ```python crawler.py```
-
+ <br />
 [![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/vedant-jain03/HashHub) [![Uses HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/vedant-jain03/HashHub) [![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/vedant-jain03/HashHub) 
 [![Built with love](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/vedant-jain03/HashHub) 
